@@ -7,7 +7,7 @@ Wants = network.target
 [Service]
 Type = simple
 User = zhangfeng
-WorkingDirectory = /home/zhangfeng/projects/biuh-dt.github.io
+WorkingDirectory = /home/zhangfeng/projects/labs
 ExecStart = /usr/bin/python3 updateIP.py
 #StandardOutput = /var/log/migpt_service.log
 #StandardError = /var/log/migpt_service_err.log
