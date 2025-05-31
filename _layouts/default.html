@@ -16,7 +16,9 @@
     
 
   <!--baidu stats end--> 
-    
+
+  <link rel="stylesheet" href="https://www.biuh-dt.com/assets/css/this_style.css">
+  
   </head>
 
   
@@ -48,7 +50,20 @@
       </header>
       <section>
 
-      {{ content }}
+        
+      <div id="password-form">
+           <h2>Password</h2>
+           <input type="password" id="password" placeholder="Password">
+            <button onclick="checkPassword()">submit</button>
+          <p id="message" style="color:red;"></p>
+      </div>
+      <div id="protected-content">
+        
+          {{ content }}
+        
+      </div>
+
+        
 
       </section>
       <footer>
@@ -56,6 +71,11 @@
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
+    
+    <script src="https://www.biuh-dt.com/assets/this_main.js"></script>
+
+
+    
     
   </body>
 </html>
