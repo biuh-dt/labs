@@ -22,7 +22,7 @@
 
 ## BiT Lab
 
-<b>Intro</b>: BiT Lab takes its name from the fusion of BiUH and Digital Technologies. Inspired by the term "bit (binary digit)", the fundamental unit of digital information, the lab is dedicated to exploring cutting-edge digital technologies and innovation.
+<b>Intro</b>: "BiT Lab" takes its name from the fusion of BiUH and Digital Technologies. Inspired by the term "bit (binary digit)", the fundamental unit of digital information, the lab is dedicated to exploring cutting-edge digital technologies and innovation.
 
 <b>Online</b>: [click here](/BiT_Lab)
 
