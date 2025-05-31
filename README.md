@@ -15,5 +15,5 @@
 
 <b>Info</b>: [click here](/BiT_Lab)
 
-<b>@</b>:
+<b>Location</b>:
 
