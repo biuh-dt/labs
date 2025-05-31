@@ -1,7 +1,5 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="1">
 
----------------------------------------
-
 ## Computing Server
 
 <b>Info</b>: [click here](/Server)
