@@ -74,7 +74,7 @@ while True:
         sp.Popen(['git','commit','-m',"'Update updateIP.py'" ],shell=False).wait()
         sp.Popen(['git','push','origin','main' ],shell=False).wait()
         #######
-        sp.Popen(['cp -f', '/etc/systemd/system/updateIP.service',service_file],shell=False).wait()
+        sp.Popen(['cp','-f', '/etc/systemd/system/updateIP.service',service_file],shell=False).wait()
         sp.Popen(['git','add','updateIP.service' ],shell=False).wait()
         sp.Popen(['git','commit','-m',"'Update updateIP.service'" ],shell=False).wait()
         sp.Popen(['git','push','origin','main' ],shell=False).wait()
