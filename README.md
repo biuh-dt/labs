@@ -20,7 +20,9 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
-## DT Teaching Lab I
+## Teaching Lab I
+
+Online: [click here](/Teaching_Lab_I)
 
 Room:
 
