@@ -20,11 +20,11 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
-## Teaching Lab I
+## BiT Lab
 
-Online: [click here](/Teaching_Lab_I)
+<b>Intro</b>: BiT Lab takes its name from the fusion of BiUH and Digital Technologies. Inspired by the term "bit (binary digit)", the fundamental unit of digital information, the lab is dedicated to exploring cutting-edge digital technologies and innovation.
 
-Room:
+<b>Online</b>: [click here](/BiT_Lab)
 
-Time: 
+<b>Room</b>:
 
