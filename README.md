@@ -2,7 +2,7 @@
 
 # Server
 
-<b>Info</b>: [click here](/Server)
+<b>Detail</b>: [click here](/Server)
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
@@ -13,7 +13,7 @@
 Inspired by the term "bit (binary digit)", the fundamental unit of digital information.
 BiT Lab is the first Digital Technologies lab at BiUH.
 
-<b>Info</b>: [click here](/BiT_Lab)
+<b>Detail</b>: [click here](/BiT_Lab)
 
 <b>Location</b>:
 
