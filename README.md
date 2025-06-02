@@ -1,6 +1,12 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="1">
 
-<img src="/img/20250530_biuh_lab_small.jpeg" width="500">
+
+<p align="right">
+  <img src="/img/20250530_biuh_lab_small.jpeg" width="500">
+  <br>
+  2025-05-30 14:31 BiUH
+</p>
+
 
 # BiT Lab
 
