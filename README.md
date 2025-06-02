@@ -5,7 +5,7 @@
   2025-05-30-14:31-Lab Building-BiUH
 </p>
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="200">
 
 # BiT Lab
 
@@ -18,7 +18,9 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 | [Lab Page](/BiT_Lab) | Prof ZHANG Feng |
 | Lab XXX | feng.zhang@hainan-biuh.edu.cn |
 
+
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
 
 # Bioinfo Lab
 
