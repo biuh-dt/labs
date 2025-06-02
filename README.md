@@ -5,7 +5,7 @@
   2025-05-30 14:31 BiUH
 </p>
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 # BiT Lab
 
