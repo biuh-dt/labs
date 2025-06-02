@@ -14,7 +14,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 # Bioinfo Lab
 
-<b>Intro</b>: 
+<b>Intro</b>: "Bioinfo Lab" is a web-based virtual laboratory developed to support training and experimental work in bioinformatics.
 
 <b>Visit</b>: [click here](https://www.bioinfo-lab.com/)
 
