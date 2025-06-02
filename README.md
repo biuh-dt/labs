@@ -1,5 +1,7 @@
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="1">
 
+<img src="/img/20250530_biuh_lab_small.jpeg" height="1">
+
 # BiT Lab
 
 <b>Intro</b>: "BiT Lab" takes its name from the fusion of BiUH and Digital Technologies. 
