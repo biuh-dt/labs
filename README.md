@@ -8,15 +8,19 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 <b>Visit</b>: [click here](/BiT_Lab)
 
+<b>Coordinator</b>: Prof ZHANG Feng, feng.zhang at hainan-biuh.edu.cn
+
 <b>Location</b>:
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
 # Bioinfo Lab
 
-<b>Intro</b>: "Bioinfo Lab" is a web-based virtual laboratory developed to support training and experimental work in bioinformatics.
+<b>Intro</b>: "Bioinfo Lab" is an online virtual laboratory developed to support training and experimental work in bioinformatics.
 
 <b>Visit</b>: [click here](https://www.bioinfo-lab.com/)
+
+<b>Coordinator</b>: Prof ZHANG Feng, feng.zhang at hainan-biuh.edu.cn
 
 <b>Location</b>: Online
 
