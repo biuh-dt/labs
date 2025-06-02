@@ -33,4 +33,4 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="200">
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="500">
