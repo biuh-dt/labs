@@ -6,7 +6,7 @@
 Inspired by the term "bit (binary digit)", the fundamental unit of digital information.
 BiT Lab is the first Digital Technologies lab at BiUH.
 
-<b>Info</b>: [click here](/BiT_Lab)
+<b>Visit</b>: [click here](/BiT_Lab)
 
 <b>Location</b>:
 
@@ -16,7 +16,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 <b>Intro</b>: 
 
-<b>Info</b>: [click here](https://www.bioinfo-lab.com/)
+<b>Visit</b>: [click here](https://www.bioinfo-lab.com/)
 
 <b>Location</b>: Online
 
