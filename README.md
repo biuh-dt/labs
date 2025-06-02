@@ -5,7 +5,9 @@
   2025-05-30-14:31-Lab Building-BiUH
 </p>
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="200">
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+
 
 # BiT Lab
 
