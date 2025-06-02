@@ -1,10 +1,3 @@
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="1">
-
-# Server
-
-<b>Info</b>: [click here](/Server)
-
-
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
 
 # BiT Lab
@@ -16,4 +9,15 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 <b>Info</b>: [click here](/BiT_Lab)
 
 <b>Location</b>:
+
+<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="20">
+
+# Bioinfo Lab
+
+<b>Intro</b>: 
+
+<b>Info</b>: [click here](https://www.bioinfo-lab.com/)
+
+<b>Location</b>: Online
+
 
