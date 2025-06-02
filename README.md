@@ -6,11 +6,10 @@
 Inspired by the term "bit (binary digit)", the fundamental unit of digital information.
 BiT Lab is the first Digital Technologies lab at BiUH.
 
-<b>Visit</b>: [click here](/BiT_Lab) | 
-
-<b>Coordinator</b>: Prof ZHANG Feng | Email: feng.zhang@hainan-biuh.edu.cn
-
-<b>Location</b>: | 
+| Info | Coordinator |
+|:---------|:---------|
+| [Visit](/Bioinfo_Lab) | Prof ZHANG Feng |
+| Lab XXX | feng.zhang@hainan-biuh.edu.cn |
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
@@ -20,7 +19,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 | Info | Coordinator |
 |:---------|:---------|
-| [Visit](https://www.bioinfo-lab.com/) | Prof ZHANG Feng |
+| [Visit](/Bioinfo_Lab) | Prof ZHANG Feng |
 | Online Lab | feng.zhang@hainan-biuh.edu.cn |
 
 
