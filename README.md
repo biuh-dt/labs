@@ -2,7 +2,7 @@
 <p align="right">
   <img src="/img/20250530_biuh_lab_small.jpeg" width="500">
   <br>
-  2025-05-30-14:31-Lab Building-BiUH
+  2025-05-30-14:31-lab building-BiUH
 </p>
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
