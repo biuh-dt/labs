@@ -1,6 +1,0 @@
-
-
-## BiT Lab
-
-
-Under Construction
