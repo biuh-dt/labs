@@ -12,8 +12,8 @@
 
 [Guest View](https://teamup.com/ksy1ct75cfd56vxycg)
 
-This calendar is used for reserving all labs.<br>
-If you want to make an appointment, please contact the lab manager.<br>
+This calendar is used to reserve all laboratory spaces.
+To make a reservation, please contact the lab manager.
 Email: xxx at hainan-biuh.edu.cn
 
 <br><br>
