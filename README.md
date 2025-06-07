@@ -12,7 +12,7 @@
 
 [View the Calendar](https://teamup.com/ksy1ct75cfd56vxycg)
 
-This calendar is for all lab reservations.
+This calendar is for the reservations of all labs.
 
 If you want to make an appointment, please contact the lab manager.
 
