@@ -8,6 +8,14 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
+# Calendar
+
+[click here](https://teamup.com/ksy1ct75cfd56vxycg)
+
+If you want to make an appointment, please contact the lab manager.
+
+Email: xxx at hainan-biuh.edu.cn
+
 
 # BiT Lab
 
@@ -18,7 +26,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 | Info | Coordinator |
 |:---------|:---------|
 | [Lab Page](/bitlab) | Prof ZHANG Feng |
-| Lab XXX | feng.zhang@hainan-biuh.edu.cn |
+| Lab XXX | feng.zhang at hainan-biuh.edu.cn |
 
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
@@ -31,7 +39,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 | Info | Coordinator |
 |:---------|:---------|
 | [Lab Page](https://www.bioinfo-lab.com/) | Prof ZHANG Feng |
-| Online Lab | feng.zhang@hainan-biuh.edu.cn |
+| Online Lab | feng.zhang at hainan-biuh.edu.cn |
 
 
 
