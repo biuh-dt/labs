@@ -8,7 +8,7 @@
 
 <img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
 
-# Calendar 
+# Lab Booking Calendar
 
 [View the Calendar](https://teamup.com/ksy1ct75cfd56vxycg)
 
