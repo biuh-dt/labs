@@ -17,7 +17,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 | Info | Coordinator |
 |:---------|:---------|
-| [Lab Page](/BiT_Lab) | Prof ZHANG Feng |
+| [Lab Page](/bitlab) | Prof ZHANG Feng |
 | Lab XXX | feng.zhang@hainan-biuh.edu.cn |
 
 
