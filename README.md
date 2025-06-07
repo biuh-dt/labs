@@ -10,7 +10,7 @@
 
 # Calendar 
 
-[click here](https://teamup.com/ksy1ct75cfd56vxycg)
+[View the Calendar](https://teamup.com/ksy1ct75cfd56vxycg)
 
 If you want to make an appointment, please contact the lab manager.
 
