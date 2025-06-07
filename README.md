@@ -16,6 +16,7 @@ If you want to make an appointment, please contact the lab manager.
 
 Email: xxx at hainan-biuh.edu.cn
 
+<br><br>
 
 # BiT Lab
 
@@ -29,7 +30,7 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 | Lab XXX | feng.zhang at hainan-biuh.edu.cn |
 
 
-<img src="https://fzhang.bioinfo-lab.com/img/white.png" height="50">
+<br><br>
 
 
 # Bioinfo Lab
