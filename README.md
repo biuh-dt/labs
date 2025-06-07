@@ -10,7 +10,7 @@
 
 # Lab Booking Calendar
 
-[View](https://teamup.com/ksy1ct75cfd56vxycg)
+[Guest View](https://teamup.com/ksy1ct75cfd56vxycg)
 
 This calendar is used for reserving all labs.<br>
 If you want to make an appointment, please contact the lab manager.<br>
