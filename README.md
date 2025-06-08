@@ -24,10 +24,9 @@ Email: xxx at hainan-biuh.edu.cn
 Inspired by the term "bit (binary digit)", the fundamental unit of digital information.
 BiT Lab is the first Digital Technologies lab at BiUH.
 
-| Info |
-|:---------|
-| [Lab Page](https://bitlab.biuh-dt.com/) |
-| Lab XXX |
+| Info | Location |
+|:---------|:---------|
+| [Lab Page](https://bitlab.biuh-dt.com/) | Lab XXX |
 
 
 <br><br>
@@ -37,10 +36,10 @@ BiT Lab is the first Digital Technologies lab at BiUH.
 
 <b>Intro</b>: "Bioinfo Lab" is an online laboratory developed to support training and collaborative research in bioinformatics.
 
-| Info |
-|:---------|
-| [Lab Page](https://www.bioinfo-lab.com/) |
-| Online Lab |
+| Info | Location | 
+|:---------|:---------|
+| [Lab Page](https://www.bioinfo-lab.com/) | Online Lab |
+
 
 
 
